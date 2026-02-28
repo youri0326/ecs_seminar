@@ -1,0 +1,5 @@
+・アカウントID
+527151769671
+
+・RDSのエンドポイント
+ecs-db-yoshiike.cnabwrjqs09i.ap-northeast-1.rds.amazonaws.com
